@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about math.
 - 📫 How to reach me: 23duner@gmail.com.
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=23duner&show_icons=true&theme=radical)
+
 
