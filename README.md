@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mathematics.
 - 🤔 I'm looking for people to read books with.
 - 💬 Ask me about math.
+- 🤗 Learn more about me at https://23duner.github.io/
 - 🥰 Trying to live a life with lots of money and lots of love.
 - 📫 How to reach me: 23duner@gmail.com.
 - tbc
