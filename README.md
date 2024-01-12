@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👀 
 - 👯 I’m looking to collaborate on ...
-- 🥰 
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mathematics.
 - 🤔 I'm looking for people to read books with.
 - 💬 Ask me about math.
+- 🥰 Trying to live a life with lots of money and lots of love.
 - 📫 How to reach me: 23duner@gmail.com.
 - tbc
   
