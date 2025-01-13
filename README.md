@@ -6,18 +6,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👀 
 - 👯 I’m looking to collaborate on ...
-
+- 💬 Ask me about math.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 - 🌱 I’m currently learning mathematics.
 - 🤔 I'm looking for people to read books with.
-- 💬 Ask me about math.
-- 🔭 左手画圆，右手画方（思考一些学习方法）
+- 🔭 左手画圆 右手画方 努力多线程的活着
 - 🤗 Learn more about me at https://23duner.github.io/
 - 🥰 Trying to live a life with lots of money and lots of love.
-- 📫 How to reach me: 23duner@gmail.com.
+- 📫 How to reach me: 2022211399@stu.hit.edu.cn; 23duner@gmail.com; xinyi@lpage.com.cn.
 - tbc
   
 ![扯淡派-嫡系传人-green](https://img.shields.io/badge/%E6%89%AF%E6%B7%A1%E6%B4%BE-%E5%AB%A1%E7%B3%BB%E4%BC%A0%E4%BA%BA-green)
