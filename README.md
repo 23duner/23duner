@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   
 ![扯淡派-嫡系传人-green](https://img.shields.io/badge/%E6%89%AF%E6%B7%A1%E6%B4%BE-%E5%AB%A1%E7%B3%BB%E4%BC%A0%E4%BA%BA-green)
 ![菜鸟届著名菜鸟](https://img.shields.io/badge/%E8%8F%9C%E9%B8%9F%E5%B1%8A%E8%91%97%E5%90%8D%E8%8F%9C%E9%B8%9F-red)      
-![23's GitHub stats](https://github-readme-stats.vercel.app/api?username=23duner&show_icons=true&theme=radical)
+<!--![23's GitHub stats](https://github-readme-stats.vercel.app/api?username=23duner&show_icons=true&theme=radical)-->
 
 
